@@ -17,7 +17,8 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
+![Portfolio Demo](src/assets/images/demo.png)
+
 
 ---
 
@@ -151,7 +152,7 @@ You will need to download **Git** and **Node** to run this project.
 2. After forking, open your terminal and run the following commands to clone the repo:
 
   ```bash
-  git clone https://github.com/seraprogrammer/portfolio.git
+  git clone https://github.com/CodewithHammad08/Personal_Portfolio.git
   ```
 Navigate to the Project Directory 📂
 Once the repository is cloned, change your directory to the project folder:
@@ -179,15 +180,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-### 🤝 Contributing
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-<div align="center"> Made with ❤️ by Nazmul Hossain </div>
+<div align="center"> Made with ❤️ by Hammad Dalvi </div>
 
