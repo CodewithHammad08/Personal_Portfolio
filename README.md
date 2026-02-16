@@ -17,7 +17,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](src/assets/images/demo.png)
+![Portfolio Demo](src/assets/images/Demo.png)
 
 
 ---
@@ -25,7 +25,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+[**Live Demo**](https://hammad-dalvi-portfolio.vercel.app/)
 ---
 ### 🎯 Project Structure
 ```bash
