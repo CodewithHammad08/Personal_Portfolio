@@ -46,8 +46,8 @@ const projects = [
     src: "project-4.png",
     link: project4,
     color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
+    githubLink: "#",
+    liveLink: "#",
   },
 ];
 
