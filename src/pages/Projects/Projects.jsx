@@ -32,7 +32,7 @@ const projects = [
   {
     title: "🎵 MusicΦ",
     description:
-      "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      "A visually soothing music player designed with a calm theme and a user-friendly interface, offering a seamless and relaxing audio experience.",
     src: "project-3.png",
     link: project3,
     color: "#fff",
@@ -42,7 +42,7 @@ const projects = [
   {
     title: "E-commerce Website 🛒",
     description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      "A fully functional e-commerce website for a local shop, built using the MERN stack and Tailwind CSS. It includes comprehensive e-commerce features to provide a seamless shopping experience.",
     src: "project-4.png",
     link: project4,
     color: "#ed649e",
